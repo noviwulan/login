@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<br/>
+	
 
 	<!-- cek pesan notifikasi -->
 	<?php 
